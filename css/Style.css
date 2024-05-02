@@ -30,7 +30,7 @@ a {
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
-  font-size: 20px;
+  font-size: 18px;
   margin-top: auto;
   margin-bottom: auto;
 }
@@ -362,23 +362,28 @@ footer p {
 @media (max-width:700px) {
     .sito {
         text-align: center;
+        font-size: 15px;
+    }
+    nav li {
+        padding-left: 20px;
+        font-size: 12px;
     }    
     h1 {
-        font-size: 44px;    
+        font-size: 40px;    
         font-weight: 800;
     }
     h2 {
-        font-size: 30px;
+        font-size: 20px;
+    }
+    .intestazione-blu span  {
+        font-size: 18px;
     }
     .intestazione {
         padding-top: 15px;
     }
-    .intestazione span {
-        font-size: 20px;
-    }
-    .info p {
+    .info p, .info span {
         padding-left: 0;
-        font-size: 18px;
+        font-size: 15px;
     }
     .laboratorio {
         display: block;
