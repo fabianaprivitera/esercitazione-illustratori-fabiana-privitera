@@ -155,26 +155,37 @@ h3 {
 .line-blu {
     background-color: rgba(65, 85, 117, 1);
     height: 2px;
+    margin-top: 3px;
+    margin-bottom: 4px;
 }
 
 .line-verde {
     background-color:rgba(65, 117, 67, 1);
     height: 2px;
+    margin-top: 3px;
+    margin-bottom: 4px;
+    
 }
 
 .line-giallo {
     background-color:rgba(201, 153, 59, 1);
     height: 2px;
+    margin-top: 3px;
+    margin-bottom: 4px;
 }
 
 .line-rosso {
     background-color:rgba(201, 59, 59, 1);
     height: 2px;
+    margin-top: 3px;
+    margin-bottom: 4px;
 }
 
 .line-scuro {
     background-color:rgba(26, 58, 28, 1);
     height: 2px;
+    margin-top: 3px;
+    margin-bottom: 4px;
 }
 
 .line-bianco {
