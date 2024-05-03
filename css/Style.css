@@ -46,6 +46,7 @@ nav li {
   font-weight: 300;
   font-style: normal;
   padding-left: 30px;
+  text-align: right;
 }
 
 main {
@@ -332,6 +333,7 @@ footer li {
     font-style: normal;
     font-size: 20px;
     margin-bottom: 20px;
+    text-align: right;
 }
 
 footer section div {
@@ -353,7 +355,7 @@ footer p {
     padding-bottom: 10px;
 }
 
-@media (max-width:1000px) {
+@media (max-width:900px) {
     svg {
         width: 600px;
     }
@@ -392,7 +394,7 @@ footer p {
         font-size: 24px;
     }
     svg {
-        width: 395px;
+        width: 390px;
     }
     .grid {
         display: inline;
