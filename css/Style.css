@@ -12,8 +12,8 @@ header {
     justify-content: space-between;
     display: flex;
     margin: 0;
-    padding-right: 12%;
-    padding-left: 10%;
+    padding-right: 13%;
+    padding-left: 13%;
 }
 
 ul {
@@ -54,8 +54,8 @@ main {
 }
 
 .intestazione-blu,.intestazione-verde, .intestazione-giallo,.intestazione-rosso, .intestazione-scuro, .info, .illustratori-blu, .illustratori-verde, .illustrazioni-scuro, footer {
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 13%;
+    padding-right: 13%;
 }
 
 .intestazione-blu {
